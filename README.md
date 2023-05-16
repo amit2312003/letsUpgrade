@@ -1,5 +1,4 @@
 # letsUpgrade
-Assignment-LetsUpgrade
 
 import java.util.Scanner;
 
@@ -20,4 +19,3 @@ public class NumberClassification {
         }
     }
 }
-
